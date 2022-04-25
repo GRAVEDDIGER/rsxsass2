@@ -1,0 +1,96 @@
+
+
+
+
+  <!-- Example single danger button -->
+  <!-- <main class="menu-wrap">
+    <div class="row clearfix float-left ">
+      <div
+        class="col-md-3 col-lg-3 col-xl-3 pt-3 col-12 col-sm-12 d-flex flex-column justify-content-start   w-100 menu ">
+        <ul class="nav flex-column ">
+          <li class="nav-item btn btn-outline-dark">
+            <a aria-current="page" href="index.html">Inicio</a>
+          </li>
+          <div class="dropdown ">
+            <button class="btn btn-outline-dark dropdown-toggle nav-item w-100" type="button" id="dropdownMenuButton1"
+              data-bs-toggle="dropdown" aria-expanded="false">
+              Servicios de Salud
+            </button>
+            <ul class="dropdown-menu dpe w-100" aria-labelledby="dropdownMenuButton1">
+              <li>
+                <a class="w-100 btn btn-outline-dark" href="caps.html">Atencion Primaria</a>
+              </li>
+              <li>
+                <a class="w-100 btn btn-outline-dark" href="hospital.html">Hospitales Publicos</a>
+              </li>
+              <li>
+                <a class="w-100 btn btn-outline-dark" href="privado.html">Subsector privado</a>
+              </li>
+            </ul>
+          </div>
+
+          <div class="dropdown">
+            <button class="btn btn-outline-dark dropdown-toggle nav-item w-100" type="button" id="dropdownMenuButton1"
+              data-bs-toggle="dropdown" aria-expanded="false">
+              Programas
+            </button>
+            <ul class="dropdown-menu dpe w-100" aria-labelledby="dropdownMenuButton1">
+              <li>
+                <a class="w-100 btn btn-outline-dark" href="prodiaba.html">Prodiaba</a>
+              </li>
+              <li>
+                <a class="w-100 btn btn-outline-dark" href="proepi.html">Proepi</a>
+              </li>
+              <li>
+                <a class="w-100 btn btn-outline-dark" href="tbc.html">TBC</a>
+              </li>
+              <li>
+                <a class="w-100 btn btn-outline-dark" href="cronicos.html">Medicamentos Cronicos</a>
+              </li>
+              <li>
+                <a class="w-100 btn btn-outline-dark" href="sm.html">Salud Mental</a>
+              </li>
+              <li>
+                <a class="w-100 btn btn-outline-dark" href="pai.html">Inmunizaciones</a>
+              </li>
+              <li>
+                <a class="w-100 btn btn-outline-dark" href="acceso.html">Acceso a la salud (ex PROFE)</a>
+              </li>
+              <li>
+                <a class="w-100 btn btn-outline-dark" href="discapacidad.html">Discapacidad</a>
+              </li>
+            </ul>
+          </div>
+
+          <div class="dropdown">
+            <button class="btn btn-outline-dark dropdown-toggle nav-item w-100" type="button" id="dropdownMenuButton1"
+              data-bs-toggle="dropdown" aria-expanded="false">
+              Salud Sexual
+            </button>
+            <ul class="dropdown-menu ddm dpe w-100" aria-labelledby="dropdownMenuButton1">
+              <li>
+                <a class="w-100 btn btn-outline-dark" href="ile.html">Interrupcion legal del embarazo</a>
+              </li>
+              <li>
+                <a class="w-100 btn btn-outline-dark" href="diversidad.html">Diversidad sexual</a>
+              </li>
+              <li>
+                <a class="w-100 btn btn-outline-dark" href="its.html">Infecciones de transmision sexual</a>
+              </li>
+            </ul>
+          </div>
+          <li class="nav-item btn btn-outline-dark">
+            <a aria-current="page" href="sc.html">Salud Comunitaria</a>
+          </li>
+          <li class="nav-item btn btn-outline-dark">
+            <a aria-current="page" href="capacitacion.html">Capacitacion</a>
+          </li>
+          <li class="nav-item btn btn-outline-dark">
+            <a aria-current="page" href="intranet.html">Intranet</a>
+          </li>
+        </ul>
+        <a class="img-fluid mx-auto imgMenu mt-2" href="covid.html"><img src="img/banner-covid-19-1280x549.webp"
+            class="img-fluid " alt="" /></a>
+        <a href="irab.html" class="img-fluid mx-auto imgMenu mt-2"><img src="img/IRAB.png" class="img-fluid w-100 "
+            alt="" /></a>
+      </div> -->

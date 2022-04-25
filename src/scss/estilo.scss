@@ -1,0 +1,274 @@
+@import 'variable';
+@import 'componentes';
+@import 'variables';
+
+@include hamburguesa($fondoPrincipal,
+    $colorAcentos,
+    $colorSecundario,
+    l,
+    2px,
+    $menuWidth,
+    0px,
+    0,
+    3,
+    22px);
+
+@include btn_solid(menu, $fondoPrincipal, 2px) {
+    width: 100%;
+}
+
+;
+
+%flex-row {
+    display: flex;
+    flex-flow: row nowrap;
+
+}
+
+.grid {
+    display: flex;
+    float: right;
+    grid-template-areas: "menu contenido", "pie pie";
+    grid-template-columns: $menuWidth 65vw;
+    grid-template-rows: auto 150px;
+}
+
+aside {
+    grid-area: menu;
+    height: 100vh;
+    background-color: $fondoPrincipal;
+    width: $menuWidth;
+}
+
+header {
+    grid-area: cabeza;
+}
+
+%margin1P {
+    margin: 0 1.5rem;
+}
+
+main {
+    grid-area: contenido;
+    @extend %margin1P;
+    width: calc(95% - #{$menuWidth});
+
+    >article {
+        display: flow-root;
+        text-align: justify;
+    }
+
+    img {
+        margin-left: 1rem;
+        float: right;
+    }
+}
+
+//sass compilation
+.cabecera {
+    height: 120px;
+    background-color: $fondoPrincipal;
+}
+
+.imgLogo {
+    height: 110px;
+    margin-right: 15px;
+}
+
+.cabeza {
+    @extend %flex-row;
+    width: 100vw;
+
+}
+
+
+
+.logo {
+    height: fit-content;
+    transition: all 0.4s ease;
+    padding-bottom: 10px;
+    margin: 0 15px;
+
+
+    &:hover {
+        transform: scale(1.05);
+        filter: saturate(180%);
+    }
+}
+
+h1 {
+    font-size: 30px;
+    color: $colorAcentos;
+    font-weight: bold;
+
+}
+
+h2 {
+    font-size: 18px;
+}
+
+h3 {
+    font-size: 30px;
+    color: $colorAcentos;
+    font-weight: bold;
+}
+
+.mapas {
+    border: $colorSecundario solid 4px;
+}
+
+p {
+    font-size: 18px;
+}
+
+.imgMenu {
+    width: 85%;
+    border: $colorSecundario solid 5px;
+    transition: all 0.4s ease;
+}
+
+.imgMenu:hover {
+    transform: scale(1.01);
+    filter: saturate(180%);
+}
+
+h2 {
+    color: $colorPrimario;
+    font-weight: bold;
+}
+
+.imgCentro {
+    width: 40%;
+    border: $colorSecundario solid 4px;
+}
+
+.iconos {
+    width: 32px;
+    height: 32px;
+    margin: 8px;
+}
+
+footer {
+    grid-area: pie;
+    position: relative;
+    width: 100%;
+    @extend %flex-row;
+    justify-content: space-between;
+    bottom: 0;
+}
+
+footer h4 {
+    font-size: 16px;
+}
+
+footer>div {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+footer img:hover {
+    transform: scale(1.3);
+    filter: saturate(180%);
+}
+
+footer img {
+    transition: all ease;
+}
+
+.centro {
+    height: 100%;
+
+}
+
+.linea {
+    border-top: $colorSecundario solid 4px;
+    padding-top: 20px;
+}
+
+.lineaAbajo {
+    border-bottom: $colorSecundario solid 4px;
+    /* padding-top: 20px; */
+}
+
+.dropdown-menu {
+    margin: 0px !important;
+    padding: 0px !important;
+    border: #dad5d5 solid 4px !important;
+
+}
+
+.mapasD {
+    width: 45%;
+    float: right;
+    margin-bottom: 5px;
+    padding-bottom: 3px;
+    margin-left: 14px;
+}
+
+.ddm {
+    padding: 0px !important;
+}
+
+@include xs {
+    .logo {
+        margin: 0;
+        padding: 0;
+
+        >img {
+            margin: 0;
+            padding: 0;
+        }
+
+    }
+
+    .imgLogo {
+        margin: 010;
+        padding: 0;
+        top: 0;
+        left: 0;
+    }
+
+    .imgLogoDer {
+        margin-right: 15px !important;
+    }
+
+    .toggler {
+        z-index: 5;
+        cursor: pointer;
+    }
+}
+
+@include s {
+    .logo {
+        margin: 0;
+        padding: 0;
+
+        >img {
+            margin: 0;
+            padding: 0;
+        }
+
+    }
+
+    .imgLogo {
+        margin: 010;
+        padding: 0;
+        top: 0;
+        left: 0;
+    }
+
+    .imgLogoDer {
+        margin-right: 15px !important;
+    }
+
+    .toggler {
+        z-index: 5;
+        cursor: pointer;
+
+        &:hover {
+            background-color: $colorSecundario;
+
+        }
+    }
+
+}

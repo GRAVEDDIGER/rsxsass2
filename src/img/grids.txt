@@ -1,0 +1,695 @@
+00:51:52	Tahú Zavala Alegría:	Yo @claudio Ojeda
+00:51:56	Nicolas Farias:	hola a todos
+00:51:58	Lautaro Minuè:	Buenas
+00:52:06	Martín Hamann:	Buenasssss
+00:52:07	Alixandre Agache:	hola todo bien
+00:52:15	Jesus Jimenez:	bien
+00:52:19	Franco Xavier Dosada:	Buenas buenas
+00:52:20	Martin Maruca:	joya
+00:52:21	Jorge Barrera:	si bien
+00:52:22	Lauti Goncalves:	buenasss
+00:52:26	Fernando Breme:	semana corta, feliz
+00:52:26	Ignacio Iantorno:	bien, en la lucha
+00:53:22	ADRIAN ABADIN:	Yo quisiera entender algo.... Se usa para algo Inline o Block? O ya es todo grids y flex?
+00:53:41	Matias Natale Lepore:	x2
+00:53:55	Joaquin Gasparian Galano:	Este jueves hay clases a pesar del feriado nacional?
+00:53:59	[Tutor] Felipe Blanco Muzzolón:	Espero que amen grids
+00:55:22	[Tutor] Michel Salinas:	Grids es un viaje de ida jaja
+00:55:37	[Tutor] Michel Salinas:	sisi este jueves hay clases Joaquin
+00:57:42	Jose Piñeiro:	de los creadores de podría ser un mail: podría ser un grid
+00:58:05	Matías Sánchez:	te los regalo
+00:58:15	Juan Cruz Dominguez Barco:	buenas!
+00:58:23	Ruben Petit:	Buenas
+00:58:45	[TUTOR] Roger Burbano:	Buenas
+00:59:05	Ricardo Falcon:	Adioss
+00:59:08	Luz Torres:	hola buenas tardes
+00:59:22	carlos gioda:	se les corta el mic cada tanto o es mi conexión?
+00:59:28	Gastón Sosa:	O sea que pasar los 24 niveles del sapito de flexbox fue en vano? :'(
+00:59:31	Candela Motylski:	Se escucha bien
+00:59:35	Ricardo Falcon:	carlos no se cortra
+00:59:42	carlos gioda:	oka! Gracias
+00:59:51	Tahú Zavala Alegría:	es ru conexión amigo carlos
+01:01:11	Luis Acosta:	Buenas!
+01:01:14	Luis Acosta:	Llegando ando
+01:01:56	Ricardo Falcon:	le tenia cariño a flexbox, llega grid
+01:02:13	Luis Acosta:	Esto necesitaba
+01:02:22	Jose Piñeiro:	posta, tuve bandas de problemas que podría resolver grid
+01:02:23	Luis Acosta:	Un despelote organizar el contenido de mi HTML jaja
+01:02:31	José González:	jajajaj creo que me acabo de enamorar de GRIDS
+01:02:37	Matias Natale Lepore:	los métodos están muriendo como moscas ultimamente
+01:06:59	Lautaro Royon:	no lo puedo creer , cuando menos lo pensé apareció grids mi heroe
+01:07:00	Martín Hamann:	para aplicar esto tengo que deshacer mil cosas
+01:07:25	Franco Xavier Dosada:	empezas el proyecto de cero otra vez
+01:07:26	Franco Xavier Dosada:	jajajjaa
+01:07:26	Ricardo Falcon:	yo creo que voy a empezar otro proyecto 🤣
+01:07:55	Martín Hamann:	posta 😝
+01:08:06	[Tutor] Felipe Blanco Muzzolón:	Jajaj es muy común
+01:08:24	Jose Piñeiro:	minimo mi css se va a ir
+01:08:45	Matías Sánchez:	adios a las 500 clases creadas en css jajaja
+01:09:13	Claudio Ojeda:	maldito box modeling
+01:09:21	Ricardo Falcon:	lo importante es saber usar la semántica bien en HTML no?
+01:09:36	Franco Xavier Dosada:	ya sangro mi cerebro!
+01:09:40	Franco Xavier Dosada:	vivi el infierno
+01:09:43	Franco Xavier Dosada:	como no me avisaron
+01:09:44	Franco Xavier Dosada:	jajajajajja
+01:09:49	Luis Acosta:	Me pasó
+01:09:49	Emiliano Becerra:	pofre después le puedo hacer una pregunta de box modeling?
+01:09:54	Jose Piñeiro:	si se logra me enamoro de grid
+01:10:00	Ricardo Falcon:	yo lo hice también jejej
+01:10:01	carlos gioda:	minimo hay que darle una comisión al que creo grid
+01:10:16	franco gonzalez:	Grid eres el mejior
+01:10:18	Diego Casas:	Emiliano, hacela y seguro te pueden responder los tutores
+01:10:29	Martín Hamann:	Yo tuve que usar float para poder poner el aside ahí
+01:10:52	Matías Sánchez:	float habian dicho que no se usa mas
+01:11:04	Sebastian Galeazzi:	nos hicieron hacer el servicio militar antes (box modeling)
+01:11:05	Martín Hamann:	🥲
+01:11:10	[TUTOR] Luciano Villalba:	float ya paso de moda
+01:11:15	franco gonzalez:	Grid sos el mejor
+01:11:15	[TUTOR] Luciano Villalba:	jaja
+01:11:29	Gastón Sosa:	para aprender, después de cada clase temenos que REHACER el website con lo que aprendimos ja
+01:11:31	[TUTOR] Luciano Villalba:	Bootstrap 😍
+01:11:36	Diego Casas:	Nos avisó que vamos a tirar grid a la basura
+01:11:38	[Tutor] Felipe Blanco Muzzolón:	Grid y flexbox <3
+01:11:40	Axel Fuzzi:	ah esta d ehumor el profe gg
+01:11:41	Matías Sánchez:	jajajaaj
+01:11:45	Diego Casas:	Así que preparenlo reciclable
+01:11:49	Fernando Breme:	Este curso se podría resumir en una clase de Bootstrap (?
+01:11:50	Martín Hamann:	JAJA
+01:12:00	José González:	jajajajaj  Bootstrap tengo miedo
+01:12:12	[TUTOR] Roger Burbano:	Es fácil
+01:12:21	Fernando Vera:	que es lo de meta charset y eso? siempre me aparece cuando creo uno nuevo y no se para qué es
+01:12:22	[TUTOR] Luciano Villalba:	muy jaja
+01:12:36	Damian Alvarez:	bueno me hago chef mejor
+01:13:04	[Tutor] Felipe Blanco Muzzolón:	Tiene que ver con los caracteres
+01:13:14	Matías Sánchez:	fernando, son codigos que recopilan los motores de busqueda
+01:13:26	Matías Sánchez:	para posicionamiento, corrijanme
+01:13:35	Fernando Vera:	tienen que estar si o si? xq yo los borré de mi codigo
+01:13:53	Matias Natale Lepore:	f
+01:13:53	Fernando Breme:	es para que el navegador entienda cierto tipo de caracteres creo
+01:13:59	Fernando Breme:	sino te aparece una ñ
+01:14:05	[Tutor] Felipe Blanco Muzzolón:	En el caso del charset UTF-8 es para que permita cierta caracteres
+01:14:09	Matias Natale Lepore:	f'nt
+01:14:46	Fernando Breme:	para crear grid siempre hay que tener un section, article o alguno de esos?
+01:14:56	Axel Fuzzi:	no
+01:15:45	[Tutor] Felipe Blanco Muzzolón:	Debés tener un container padre
+01:16:45	Fernando Breme:	comprendido, grax!
+01:18:26	Javier Federico Casas:	Alguien tiene a mano el link de la carpeta con todo el material?
+01:18:51	[TUTOR] Roger Burbano:	https://drive.google.com/drive/u/0/folders/13tFP10O7XB054pdxtN5g7RnWe3Tz37Ml
+01:18:58	Javier Federico Casas:	Gracias.
+01:19:06	[TUTOR] Roger Burbano:	=P
+01:19:47	Alexis Uthurralt:	Semánticamente se usa solo con div o puede ser span o ul?
+01:19:59	Damian Alvarez:	básicamente por cada columna un valor?
+01:20:46	Diego Casas:	Por que modifica las anteriores?
+01:21:00	Damian Alvarez:	iba a preguntar lo mismo
+01:21:14	Kevin Ascanio:	el 10 % que representaria?? una colunma que mida el 10% del espacio total de secion no??
+01:21:33	Franco Xavier Dosada:	Si, del ancho del section
+01:23:10	Ruben Petit:	Poco
+01:23:11	Diego Casas:	Que estaría siendo lo que "sobra"?
+01:23:13	Gastón Sosa:	Por qué hay espacios en gris?
+01:23:19	Fernando Vera:	y xq el espacio entremedio es tan distitno?
+01:23:19	Gastón Sosa:	cómo se determinan?
+01:23:20	Braian Carignano:	no entendi
+01:23:21	Katia Acosta:	mas o menos
+01:23:24	Katia Acosta:	menos que mas
+01:23:27	Matias Natale Lepore:	no entendí porque crecio
+01:23:28	Fernando Breme:	la separación entre columnas la define solo?
+01:23:55	Gaston Sartor:	al padre
+01:24:08	Damian Alvarez:	xq hay tanto espacio entre ellos?
+01:24:40	Fernando Breme:	x el tamaño del section?
+01:24:46	Kevin Ascanio:	porque el div
+01:24:48	Kevin Ascanio:	mide 100px
+01:24:52	Diego Gallego:	por el grid
+01:24:55	Gaston Sartor:	tenes el tamano fijo
+01:24:55	Kevin Ascanio:	de width
+01:24:57	gonza:	Buenas noches soy Gonzalo Durante estoy en una computadora prestada
+01:25:04	Fernando Vera:	claro es 100 del div + 200 del grid que sobran
+01:25:23	Fernando Breme:	aaah
+01:25:39	Fernando Vera:	100%
+01:25:44	Kevin Ascanio:	osea la primera columna es 300px pero de esos 300 el div ocupa solo un tercio es decir solo 100px
+01:25:47	Braian Carignano:	puede dar un ejemplo con los div de la misma medidas?
+01:25:50	Fernando Breme:	no preste atención al tamaño del div :P
+01:25:50	Ruben Petit:	Entonces, ese espacio en blanco es interpretado como marging??
+01:26:30	Ruben Petit:	Como se ve ese espacio en la consola?
+01:27:11	Gastón Sosa:	Lo que me esta costando entender es cómo entran los divs en las columnas? es 1 div x columna?
+01:27:21	Ignacio El Haibe:	Claro
+01:27:25	Ignacio El Haibe:	Pero cada Div tiene un tamaño diferente
+01:27:42	Nicolas cerecedo:	los divs están dentro del section, entonces se acoplan al tamaño del section los divs
+01:27:45	Braian Carignano:	ahora si entendí, gracias, me confundia las medidas del div
+01:27:49	John Kevin Montes De Oca:	asi es, el grid lo defines, y los elementos dentro se acomodan
+01:27:50	Franco Xavier Dosada:	Las medidas que se aplican en el grid son la distancia que hay entre cada div
+01:28:19	Ricardo Falcon:	el tamaño del div esta dependiendo del tamaño de la columna del grid
+01:28:22	Katia Acosta:	el tamaño siempre es en X?
+01:28:38	Fernando Breme:	con columns, con rows es en Y
+01:28:42	Katia Acosta:	claro, son columnas
+01:29:34	Ricardo Falcon:	50% 50%
+01:29:46	Fernando Breme:	como valor relativo lo hay preferencia entre %, REM y VP?
+01:29:51	Emiliano Becerra:	para usar el tamaño relativo el padre tiene que estar en absoluto?
+01:29:56	Gastón Sosa:	los objetos dentro, en este caso los div, se ordenan estilo wrap?
+01:30:29	Ruben Petit:	Ahora, ya se entiende mejor, pero cuando se le aplica un tamaño de ancho al grid, y luego bloqueas al div con otro ancho menor al dado en el grid, mi pregunta como se ve ese espacio en la consola, es visto como margin?
+01:30:32	Ignacio Iantorno:	como hay 4 divs entonces si pones dos medidas se replica en las dos restantes?
+01:30:35	Braian Carignano:	cuales medidas son las que mas se recomiendan? el %?
+01:30:37	Fernando Breme:	vp es técnicamente, mejor para padres que para hijos, tal vez?
+01:31:05	Kevin Ascanio:	clarito
+01:31:05	Matías Sánchez:	tantos divs tengas
+01:31:06	Fernando Breme:	yes!
+01:31:06	Carlos Contreras:	como le pondrías el alto?
+01:31:06	Sebastian Galeazzi:	si
+01:31:07	Cristian Diaz Hoffman:	claro
+01:31:07	Ricardo Falcon:	si si
+01:31:08	Gastón Sosa:	si, eso si
+01:31:08	Maximiliano Simon:	clarisimo
+01:31:08	Matias Montenegro:	sii
+01:31:09	Diego Casas:	Ahora sip
+01:31:10	Emiliano Becerra:	reo que si le agrega un borde
+01:31:11	Nicolas cerecedo:	si, quiero saber como se lo aplicas a todo con un solo grid
+01:31:11	Ruben Petit:	Si
+01:31:14	[Tutora]Melisa Ferreyra:	Braian podes utilizar % vamos a ver otras medidas tambien!
+01:31:21	Gastón Sosa:	el tema es lo que se pone dentro de las columnas jaj
+01:31:22	Nicolas cerecedo:	:c
+01:31:23	Emiliano Becerra:	con un borde quizás lo vemos más claro
+01:32:37	Matías Sánchez:	no tiene altura
+01:32:37	Fernando Vera:	saca e height de los div
+01:32:39	Sebastian Galeazzi:	el height
+01:32:40	Nicolas cerecedo:	no esta completo
+01:32:40	Ricardo Falcon:	el valor del height
+01:32:40	Fernando Breme:	xq section no tiene un tamaño definido
+01:32:41	Carlos Contreras:	altura al seccion
+01:32:44	Nicolas cerecedo:	el 100}%
+01:32:47	Sebastian Galeazzi:	es de 100
+01:33:05	Fernando Vera:	en heigth no hay %
+01:34:07	Ricardo Falcon:	pero no ha mas div
+01:34:32	Gastón Sosa:	si dejas una sola fila, entonces los 4 objetos quedan dentro?
+01:35:01	Fernando Breme:	falta espacio
+01:37:12	Fernando Breme:	para organizar la estructura base de la pagina, hay que aplicarle grid a body? para organizar el header y todo eso
+01:37:49	Ricardo Falcon:	mejor verlo como si fueran partes
+01:37:52	Matias Natale Lepore:	rezad chicos, rezad
+01:37:54	Diego Casas:	Dijo el profesor que para la estructura hay que meter todo en un grid principal
+01:38:25	Gastón Sosa:	básicamente hace una suma de las fraction y luego las divide, no?
+01:38:50	Sebastian Galeazzi:	messi
+01:39:03	Ruben Petit:	Esa unidad solo sirve para Grid Template?
+01:39:04	[TUTOR] Luciano Villalba:	jajaj
+01:39:09	Franco Xavier Dosada:	Hermoso
+01:39:12	Maximiliano Simon:	espectacular
+01:39:12	Gastón Sosa:	ahhh es la pantalla dividido el total de fracciones
+01:39:13	Damian Alvarez:	boom
+01:39:17	Lautaro Goncalves:	facha
+01:39:17	Javier Federico Casas:	brujo
+01:39:19	Cynthia Chantire:	muy bueno! y responsive
+01:39:19	Sebastian Galeazzi:	recontra messi
+01:39:26	Diego Cáceres Cardoza:	puede ser 1.5fr?
+01:39:31	Gastón Sosa:	ahh ok
+01:39:52	Martín Hamann:	sería 1 de 33 y 1 de 66 del tamaño del padre?
+01:39:54	Gastón Sosa:	ok, se entiende
+01:40:00	Ruben Petit:	Esa unidad solo sirve para Grid Template?
+01:40:13	Gastón Sosa:	claro, lo que dice martin me parece, si tuvieras 5fr cada fr sería del 20%
+01:40:29	[Tutor] Felipe Blanco Muzzolón:	Exacto
+01:40:35	[TUTOR] Roger Burbano:	Asi es
+01:40:36	Fernando Breme:	hay que darle una altura al section
+01:40:37	[TUTOR] Luciano Villalba:	eso mismo
+01:40:40	Damian Alvarez:	no hay declarado un espacio?
+01:40:47	Fernando Vera:	la moraleja es que siempre que usemos grids, los padres tienen que tener height definido
+01:42:06	Martín Hamann:	Cuando es recomendable usar fr?
+01:42:09	Matías Sánchez:	solo tendrias que calcular mas o menos el tamaño del padre, para masomenos imaginar como quedaria dividido en fraciones
+01:42:10	Gaston Sartor:	siis
+01:42:12	Ruben Petit:	Esa unidad de medida solo sirve para display grid?
+01:42:41	Franco Xavier Dosada:	Cuando usamos grid ??? eso fue una pregunta ?? o sea que a veces no se usa esta maravilla ? =0
+01:43:01	[Tutor] Felipe Blanco Muzzolón:	Cuando quiran, jajaja
+01:43:27	Francisco Rubio:	si
+01:43:28	Diego Casas:	Sisi
+01:43:29	Matías Sánchez:	explendido
+01:43:31	Gastón Sosa:	sisi, se entiende
+01:43:31	John Kevin Montes De Oca:	postivo
+01:43:32	Jeremias Cané:	Ósea que si pones 2fr 2fr se divide a la mitad?
+01:43:45	Jeremias Cané:	Sin acento
+01:43:53	Gastón Sosa:	si, pero no habría diferencia con poner 1fr 1fr
+01:43:57	[TUTOR] Luciano Villalba:	si Jeremias
+01:44:05	Martín Hamann:	la mitad del tamaño del padre
+01:44:11	[Tutor] Felipe Blanco Muzzolón:	Exacto
+01:44:27	Jeremias Cané:	B)
+01:44:45	[TUTOR] Luciano Villalba:	tienen que estar pendientes del padre para las medidas
+01:45:29	Axel Fuzzi:	se hacia un Excel jaja
+01:45:35	Martín Hamann:	xd
+01:45:47	Sebastian Galeazzi:	144
+01:46:06	Axel Fuzzi:	cuando no conoces Excel,
+01:47:06	Ruben Petit:	el footer se salto
+01:47:09	Damian Alvarez:	son miles de elementos y uno por uno es un garron
+01:47:30	Diego Casas:	repeat ()
+01:48:18	Gastón Sosa:	repeat (iteraciones, tamaño) entonces?
+01:48:53	Diego Casas:	Sip
+01:49:34	Franco Xavier Dosada:	y si quiero que la columna 8 sea de diferente tamaño ?
+01:51:07	Damian Alvarez:	una joya
+01:51:11	Damian Alvarez:	a jugar
+01:51:14	Javier Federico Casas:	magia negra
+01:51:23	Fernando Breme:	se eleva majestuosamente
+01:51:42	Claudio Ojeda:	exel quien te conoce
+01:51:47	Diego Casas:	Y eso se usa así? O es mas que nada un ejemplo?
+01:52:04	Matías Sánchez:	y asi quedaria para una galeria de fotos
+01:52:08	Fernando Breme:	se usa como uno lo necesite
+01:52:34	Fernando Vera:	podría disponer en una grid a varios flexbox en vez de simplemente divs, no?
+01:52:47	Gastón Sosa:	y si quiero que el elemento de la 1ra columna ocupe todo el height y en la 2da columna haya 2 filas ?
+01:52:47	Fernando Vera:	ahbueno justo eso pregunte jaja
+01:53:05	Damian Alvarez:	osea que en uno meto un párrafo en otro una foto y asi?
+01:53:14	Lautaro Goncalves:	tamos bienn
+01:53:16	Franco Xavier Dosada:	hermoso por ahora
+01:53:17	Kevin Ascanio:	va bien va bienn
+01:53:17	Katia Acosta:	🤯
+01:53:19	hernan gil:	bien quemados
+01:53:19	Matías Sánchez:	hechando humo
+01:53:20	Tahú Zavala Alegría:	si breiiiiik porque me duele la cabeza jajaja
+01:53:20	Gastón Sosa:	ah me Adelante Seguro jajaj
+01:53:21	hernan gil:	jajaja
+01:53:22	Matías Sánchez:	y no fumando
+01:53:24	Ruben Petit:	Algo enredado, pero si se puede
+01:53:41	Fernando Breme:	ta divertido esto
+01:53:53	Gastón Sosa:	ok
+01:54:00	Damian Alvarez:	y todavía falta mas magia negra
+01:54:39	Tahú Zavala Alegría:	seguimos con soda stereo porfa? Dario
+01:54:42	Tahú Zavala Alegría:	jajaja
+01:55:38	Dario Ceballos:	Lo pedis lo tenes
+01:56:48	Tahú Zavala Alegría:	el mejor maestro que he tenido 😎 capo
+01:56:52	Tahú Zavala Alegría:	jajaja
+01:58:23	Gastón Sosa:	A ver cuándo se ponen alguna de heavy loco
+01:58:42	Fernando Breme:	heavy se están poniendo las clases
+01:58:47	Gastón Sosa:	jajaja
+01:58:50	Dario Ceballos:	hoy me compartieron la banda de un estudiante de perú
+01:59:52	Dario Ceballos:	https://jalejandroospina.github.io/DCT/Videos.html
+02:00:10	Dario Ceballos:	Ese es el proyecto final que hizo
+02:00:28	Gastón Sosa:	Que piola!!
+02:00:38	Fernando Breme:	una locura
+02:01:00	Gastón Sosa:	Que capo!
+02:01:15	Jose Piñeiro:	spoilers
+02:01:31	Ezequiel Jimenez:	que grosso
+02:01:52	[TUTOR] Roger Burbano:	el de ustedes va a quedar mejor =P
+02:03:24	Fernando Breme:	pero las areas siguen siendo para crear o solo para distribuir?
+02:06:09	Dario Ceballos:	<body id="grid-area">
+    <header class="border">Header</header>
+     <section id="productos" class="border">Section</section>
+     <section id="servicios" class="border">Section</section>
+     <nav class="border">Navegacion</nav>
+     <aside class="border">Aside</aside>
+     <footer class="border">Pie de pagina</footer>
+
+    
+</body>
+02:10:09	Nicolas cerecedo:	pero el producto esta como ID
+02:10:29	Gastón Sosa:	pero Tambien tiene class
+02:10:35	Martín Cambursano:	Porque es algo único
+02:10:37	Diego Casas:	Por jerarquia
+02:10:45	Fernando Breme:	xq es mas importante
+02:10:48	Gastón Sosa:	porque tiene width auto
+02:10:49	Candela Motylski:	Porque es algo que se usa una sola vez
+02:11:02	Martín Cambursano:	2
+02:11:02	Matías Sánchez:	2
+02:11:03	Francisco Rubio:	2
+02:11:06	Gastón Sosa:	productos y servicios
+02:11:07	Ricardo Falcon:	para poder distinguir los section
+02:11:09	Martín Cambursano:	tenes que diferenciar
+02:11:28	Fernando Breme:	osea, la clase la usa para los estilos y el ID para la distribución?
+02:12:11	Gastón Sosa:	El VS Code siempre que aplico estilos a ID's me dice que no esta correcto
+02:13:47	Dario Ceballos:	/* Nombrar cada area */
+header {
+    grid-area: cabeza;
+ }
+ footer {
+    grid-area: pie;
+ }
+#productos {
+    grid-area: productos;     
+ }
+#servicios {
+    grid-area: servicios;     
+ }
+ nav {
+    grid-area: menu;
+ }
+ aside {
+    grid-area: lateral;
+ }
+02:14:27	Gastón Sosa:	Esto es re programación jaj
+02:15:30	Fernando Breme:	"nav" "header" "header"
+02:15:36	Diego Casas:	Cabeza
+02:15:37	Fernando Vera:	tamaño?
+02:15:47	Matias Natale Lepore:	nombra cada área=declarame la variable
+02:15:56	Gastón Sosa:	menu productos lateral
+02:16:13	Diego Casas:	Manu
+02:16:14	Alan Gomez:	menui
+02:16:14	carlos gioda:	menu
+02:16:15	Diego Casas:	Menu*
+02:16:15	Javier Federico Casas:	menu
+02:16:16	Alan Gomez:	menu
+02:16:25	Kevin Ascanio:	menu cabeza cabeza??
+02:16:33	carlos gioda:	cabeza
+02:16:33	Matías Sánchez:	cabeza
+02:16:35	Javier Federico Casas:	cabeza}
+02:16:37	Gastón Sosa:	cabeza
+02:16:39	Gaston Sartor:	menu cabeza cabeza
+02:16:41	Gastón Sosa:	lateral
+02:16:52	Gastón Sosa:	ahhhhhhhhhhhh
+02:17:07	Fernando Breme:	me hace acordar a la canción de rene, cabeza rodilla muslo y cadera
+02:17:10	Gastón Sosa:	ahora se entiende
+02:17:13	Damian Alvarez:	y si usas el repeat?
+02:17:28	Damian Alvarez:	aunque son pocas,pero se podría?
+02:17:44	Nicolas cerecedo:	no le diste height
+02:17:44	Matías Sánchez:	prque no tiene area de localizacion
+02:17:47	Ruben Petit:	No tiene valor aun
+02:17:59	Gastón Sosa:	estas Armando una matriz, puede ser?
+02:18:12	Matías Sánchez:	nav
+02:18:14	Matías Sánchez:	productos
+02:18:14	Gastón Sosa:	menu productos lateral
+02:18:17	Matías Sánchez:	publicidad
+02:18:27	Ruben Petit:	Lo que dijo gaston
+02:18:28	Matías Sánchez:	uhh cierto, me cambiaste los tantos
+02:18:33	Gaston Sartor:	nav producto lateral
+02:18:43	Gastón Sosa:	esto es un datafrane
+02:18:47	Gastón Sosa:	dataframe*
+02:18:54	Gastón Sosa:	el que usa python me entiende
+02:18:56	Martín Hamann:	Que maravilla
+02:19:01	Kevin Ascanio:	menu productos lateral, la tercera igual
+02:19:03	Matías Sánchez:	menu productos lateral
+02:19:05	Ricardo Falcon:	AMO GRID
+02:19:07	Cristian Diaz Hoffman:	menu servicio lateral
+02:19:07	Gastón Sosa:	menu servicios lateral
+02:19:09	Matias Natale Lepore:	uma delicia
+02:19:10	Damian Alvarez:	nav servicios lateral
+02:19:11	Nicolás Torres Álvarez:	menú servicios lateral
+02:19:14	Sebastian Galeazzi:	menú servicios publiciidad
+02:19:15	Kevin Ascanio:	ahhh servicioss
+02:19:16	Damian Alvarez:	perdon
+02:19:19	Damian Alvarez:	me confundi
+02:19:22	Javier Federico Casas:	MENU
+02:19:23	Ariel Ignacio Lucero:	Es lo mas cercano a ser dios esto
+02:19:24	Alan Gomez:	menu servicios lateral
+02:19:26	Sebastian Galeazzi:	menu servicios lateral
+02:19:31	Javier Federico Casas:	lateral
+02:19:32	Damian Alvarez:	lateral
+02:19:32	Gastón Sosa:	lateral
+02:19:33	Gaston Sartor:	lateral
+02:19:47	Matías Sánchez:	lateral
+02:19:47	Ricardo Falcon:	menú pie pie
+02:19:49	Diego Casas:	Menu pie pie
+02:19:49	Gastón Sosa:	esto es mucho más simple que grid explicito
+02:19:52	Ezequiel Jimenez:	laterla
+02:20:13	Gastón Sosa:	menu pie pie
+02:20:15	Franco Xavier Dosada:	menu pie pie
+02:20:21	Damian Alvarez:	menu pie pie
+02:20:27	Alan Gomez:	menu pie pie
+02:20:27	Gerardo Alderete:	menú /pie /
+02:20:33	Claudio Contardi:	menu píe
+02:20:48	Matías Sánchez:	que lo tiro ehh, que lendoo
+02:20:50	Gastón Sosa:	que piola
+02:21:00	carlos gioda:	rengo
+02:21:01	carlos gioda:	ja
+02:21:02	Gastón Sosa:	menu repeat(2, pie) se puede?
+02:21:06	Matias Natale Lepore:	nooo
+02:21:06	Claudio Contardi:	exacto
+02:21:10	Fernando Breme:	y como se le da el tamaño correspondiente
+02:21:18	Matías Sánchez:	ya quiere ahorrar codigo gaston
+02:21:19	Matías Sánchez:	jajajaja
+02:21:22	Gastón Sosa:	jajajajaj
+02:21:23	Cristian Diaz Hoffman:	perfecto
+02:21:25	Mariano San Juan:	si
+02:21:26	Fernando Breme:	si mi capitan
+02:21:26	Franco Xavier Dosada:	siii
+02:21:26	Gaston Sartor:	sisi
+02:21:27	Diego Casas:	Sisi
+02:21:27	Ruben Petit:	si
+02:21:29	Claudio Contardi:	si
+02:21:29	Javier Federico Casas:	Si
+02:21:29	Augusto Sanchez:	si
+02:21:29	Damian Alvarez:	jajajajja si
+02:21:29	Javier Federico Casas:	}
+02:21:32	Gastón Sosa:	Si, estas Armando un dataframe
+02:21:33	Ricardo Falcon:	si
+02:21:35	Jorge Barrera:	si
+02:21:43	Ariel Ignacio Lucero:	allá voy Globant!
+02:22:20	Ezequiel Jimenez:	globant 🤤
+02:22:29	Nicolás Balaudo:	para el trabajo final voy a tener 10 .html y .css en la papelera
+02:22:45	Matías Sánchez:	1fr 1fr 1fr
+02:23:05	Gastón Sosa:	auto rellena el % restante?
+02:23:18	[TUTOR] Luciano Villalba:	que grande Gaston
+02:23:47	Gastón Sosa:	jaja me lo imagine porque aparecio antes! jajaj
+02:24:22	Fernando Vera:	pero todavía no le diste tamañaño al body
+02:24:43	Matías Sánchez:	body 100 %
+02:24:55	Diego Casas:	Cuanta magia! Y yo parezco el mago sin dientes
+02:25:20	Gastón Sosa:	jajajaj
+02:25:38	Gastón Sosa:	Es un espectáculo
+02:25:40	Gaston Sartor:	hermoso
+02:25:43	Diego Casas:	Belleza
+02:25:45	Matías Sánchez:	TE AMOOOOOOOO GRIDDDD
+02:25:48	Javier Federico Casas:	Me acaba de explotar la capocha
+02:25:48	Ariel Ignacio Lucero:	me vuelvo loco
+02:25:50	Ricardo Falcon:	brujeria
+02:25:53	Matias Natale Lepore:	y comole borramos las líneas divisorias
+02:25:56	Fernando Breme:	es como si fuese el boceto en grid
+02:26:04	Gastón Sosa:	Bueno chicos, pueden ir tirando sus anteriores HTML a la papelera, es el desafío 4
+02:26:05	Matías Sánchez:	le sacas el border del css
+02:26:12	franco gonzalez:	Sos el mejor Grid!!!
+02:26:20	Ricardo Falcon:	masss
+02:26:22	Ricardo Falcon:	jajajaja
+02:26:23	Diego Casas:	Jajaja
+02:26:24	Ruben Petit:	mass
+02:26:27	Lautaro Goncalves:	estamos muuuy bien
+02:26:28	Lautaro Goncalves:	jajajajaj
+02:26:29	Kevin Ascanio:	seguimooo esta re buenoo
+02:26:29	Ariel Ignacio Lucero:	con razón me gustaba el helado de grido
+02:26:37	Martín Hamann:	xDDD
+02:26:38	Gaston Sartor:	posta vamos a tener que hacer todo de cero
+02:26:40	Javier Federico Casas:	I know Kung-Fu
+02:26:45	Ruben Petit:	estamos como niños con jueguete nuevo
+02:26:45	[Tutor DW] Gerardo Gambarte:	Ariel necesitas urgente un transplante de paladar
+02:26:46	[Tutor DW] Gerardo Gambarte:	jajajajajaja
+02:26:52	Matías Sánchez:	jaajajajjaja
+02:27:02	Sebastian Galeazzi:	jajajajajajaj
+02:27:11	Matías Sánchez:	todavia le quedo el sintoma covid
+02:27:12	Matias Natale Lepore:	no me toquen a grido por favar
+02:27:21	[Tutor DW] Gerardo Gambarte:	jajajaja
+02:27:26	Ricardo Falcon:	ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+02:27:30	Gastón Sosa:	la torta oreo de grido va como piña
+02:27:38	[Tutor DW] Gerardo Gambarte:	se esa juega tengo que admitirlo xd
+02:27:46	Martín Hamann:	por favor pase este código después 🙏}
+02:27:55	Gastón Sosa:	Che que genial como va quedando..
+02:28:51	Martín Cambursano:	Ojo que menú no es
+02:28:53	Martín Cambursano:	es NAV
+02:28:54	Sebastian Galeazzi:	nav
+02:28:55	Ricardo Falcon:	puso menu
+02:28:55	Matías Sánchez:	lateral
+02:28:58	Martín Cambursano:	NAV
+02:28:59	Ruben Petit:	los border
+02:29:01	Gastón Sosa:	pero no le pusiste el #
+02:29:17	Fernando Breme:	Buenaardo
+02:29:21	Martín Cambursano:	10 de 10 ajjaja
+02:29:22	Gastón Sosa:	terrible
+02:29:29	carlos gioda:	grid hace que no parezca un sitio de los 90s..
+02:29:31	Jose Piñeiro:	Pero si esta hermoso
+02:29:34	Gastón Sosa:	o sea, hacemos menos HTML y más CSS
+02:29:49	Diego Casas:	Y se va acomodando?
+02:30:03	Ezequiel Jimenez:	GALERIA EN EL SECTION PLISSS
+02:30:05	Ezequiel Jimenez:	jeje
+02:31:33	Gastón Sosa:	se usan en el padre?
+02:31:42	Gastón Sosa:	ahh ok!
+02:31:47	Javier Federico Casas:	en dónde colocaría esas propiedades?
+02:32:03	Javier Federico Casas:	Selente
+02:32:52	[TUTOR] Luciano Villalba:	Atentos cuando apliquen estas alineaciones
+02:32:52	Gastón Sosa:	hay algun jueguito como el del sapito? jaja
+02:32:55	Dario Ceballos:	https://codepen.io/santiagoav-the-bashful/pen/WNbwXYy
+02:32:58	[Tutor] Felipe Blanco Muzzolón:	Si, Gastón!
+02:33:07	[Tutor] Felipe Blanco Muzzolón:	https://cssgridgarden.com/
+02:33:12	Javier Federico Casas:	El juego del sapo para practicar Flexbox que pasaron la clase pasada estaba MUY bueno.
+02:33:30	Gastón Sosa:	ahh que genial!!
+02:33:38	[TUTOR] Santiago Strano:	https://cssgridgarden.com/#es
+02:33:41	Fernando Vera:	no entendí la diferencia de ítems y content
+02:33:48	Fernando Vera:	ah, ya entendi
+02:33:50	Fernando Vera:	no dije nada
+02:34:16	Fernando Breme:	técnicamente el justify content, elimina el valor de tamaño que le dimos a las areas?
+02:34:38	Ezequiel Jimenez:	Galeria en un Section ! jeje
+02:34:59	Diego Casas:	Si
+02:35:00	Nicolás Torres Álvarez:	sii
+02:35:00	Sebastian Galeazzi:	siii}
+02:35:01	Francisco Rubio:	si
+02:35:01	Gaston Sartor:	dale
+02:35:01	Kevin Ascanio:	SIII
+02:35:02	Diego Casas:	Veamos
+02:35:02	Gastón Sosa:	sisisi
+02:35:03	Matias Natale Lepore:	se
+02:35:03	Franco Xavier Dosada:	si vemos
+02:35:04	Mariano San Juan:	sigamos
+02:35:04	hernan gil:	vamos a verlo
+02:35:06	Cristian Diaz Hoffman:	veamoss
+02:35:06	Gerardo Alderete:	siii
+02:35:06	Fernando Breme:	sisiisisisisiisisisisi
+02:35:06	Claudio Contardi:	segir
+02:35:09	Kevin Ascanio:	sisisisisi
+02:35:10	Matías Sánchez:	dale dale asi termina de explotar mi cabeza
+02:35:11	Augusto Sanchez:	dale
+02:35:13	Kevin Ascanio:	NOO
+02:35:14	Damian Alvarez:	si
+02:35:15	Diego Casas:	Jajaja
+02:35:16	Gastón Sosa:	mandale gas
+02:35:16	Sebastian Galeazzi:	noooo flexxx
+02:35:19	Kevin Ascanio:	demosleeee
+02:35:24	hernan gil:	a darle atomos
+02:35:25	Ricardo Torres:	demosleeee
+02:35:27	Carlos Contreras:	no si
+02:35:27	Damian Alvarez:	tengo que pasear al perro pero vamos a seguir jajaja
+02:35:28	Carlos Contreras:	si no
+02:35:35	[TUTOR] Luciano Villalba:	jajajaja
+02:36:01	[Tutor DW] Gerardo Gambarte:	vamos por partes como diría jack el destripador xd
+02:36:17	Diego Casas:	Noo, es mucho
+02:36:18	[TUTOR] Luciano Villalba:	😂😂😂
+02:36:20	Gastón Sosa:	O sea, es como que con el grid le diste el formato a Grosso modo de la página, pero esta en nosotros el darle detalle en cada una de esas secciones, no?
+02:36:36	Matias Natale Lepore:	apágalo ottoooo
+02:37:46	Fernando Breme:	suma estrella?
+02:37:57	Nicolás Torres Álvarez:	el dinosaurio
+02:39:31	Ignacio Iantorno:	flex
+02:39:44	Ruben Petit:	header display flex
+02:40:04	Luz Torres:	disculpen me tengo que ir
+02:40:20	Fernando Vera:	flex.flow
+02:40:51	Fernando Breme:	se puede agregar un skroll interno para esa área? en el caso de que tenga mucho contenido
+02:40:57	[TUTOR] Luciano Villalba:	tranqui Luz, cualquier cosa lo volver a ver esta parte final.
+02:42:51	Fernando Vera:	fleeeex
+02:42:52	Fernando Vera:	jaja
+02:42:59	Fernando Vera:	flex como respuesta a todo
+02:43:06	Gastón Sosa:	column nowrap
+02:43:21	Gastón Sosa:	space-evenly
+02:43:30	Fernando Vera:	margin, padding
+02:44:10	Fernando Vera:	justify content center
+02:44:19	Fernando Breme:	como se hace para redondear las esquinas del borde, en caso de que tenga, border-radius?
+02:44:26	Matías Sánchez:	correcto
+02:44:31	Ignacio Iantorno:	tremendooo
+02:44:32	Gastón Sosa:	que piola
+02:44:34	Ruben Petit:	text align center
+02:44:39	Matias Natale Lepore:	el hover automáticamente sube un 25% la tarifa
+02:44:46	Fernando Vera:	que facha el hover x favor
+02:44:47	Martín Hamann:	JJAJA
+02:44:55	Fernando Breme:	anashe
+02:47:43	Fernando Vera:	fleeeeeeex
+02:47:51	Ruben Petit:	section display flex
+02:48:23	Damian Alvarez:	see
+02:48:23	Fernando Vera:	hermoso quilombo
+02:48:25	Gastón Sosa:	sii re bienm
+02:48:26	Javier Federico Casas:	Espectacular
+02:48:27	Franco Xavier Dosada:	perfecto
+02:48:28	Gaston Sartor:	siis
+02:48:28	Matías Sánchez:	sep
+02:48:28	Kevin Ascanio:	geniaal
+02:48:34	hernan gil:	es un montón, pero se entiende
+02:48:39	Damian Alvarez:	messiirrvee
+02:48:44	Yanina Bertolotti:	si, hay que practicar
+02:48:59	Gastón Sosa:	o sea que no vamos a usar casi nunca grid explicito, no?
+02:49:19	Diego Casas:	Nos queda una clase mas de grid
+02:49:30	Diego Casas:	Así que seguro hay mucha data que estamos obviando hasta ahora
+02:49:30	Fernando Breme:	y si tiene muchos elementos, se puede genera un skroll interno en esa área? para que no se siga agrandando
+02:49:32	Carlos Contreras:	si le quieres poner un fondo al texo como harias?
+02:49:34	Nicolás Torres Álvarez:	fantastico
+02:49:38	Martín Cambursano:	10 puntos.
+02:49:39	Ruben Petit:	hermoso
+02:49:51	Javier Federico Casas:	Overflow
+02:50:10	Fernando Breme:	ta bueno
+02:50:25	Gastón Sosa:	Nice, ya Podemos crear una pagina como Stack Overflow
+02:50:27	John Kevin Montes De Oca:	nos comparte el ejemplo por favor :3
+02:50:38	Matias Montenegro:	impecable clase profe! impresionante la verdad!
+02:50:39	Matías Sánchez:	una maravilla la clase
+02:50:39	Javier Federico Casas:	Nuuuuuuuuuuuuuuuu
+02:50:40	Cristian Diaz Hoffman:	jajajaja
+02:50:40	Martín Hamann:	xdddd
+02:50:40	[Tutor DW] Gerardo Gambarte:	xd
+02:50:40	Matias Natale Lepore:	buenas noches a todos
+02:50:41	Fernando Breme:	eeeh
+02:50:42	Ricardo Falcon:	🤣
+02:50:42	Matías Sánchez:	mi mama me mata
+02:50:43	Damian Alvarez:	no comparte codigo
+02:50:44	Jose Velasquez:	jajajaja
+02:50:46	Fernando Vera:	jajaja está perfecto, sino tenemos todo hecho
+02:50:49	Damian Alvarez:	si no escribieron a la par
+02:50:49	Claudio Ojeda:	buena clase profe, hermoso grid
+02:50:49	John Kevin Montes De Oca:	ah que pena, estricta la mama jajaja
+02:50:50	Diego Gallego:	AJAJAJAJAJAAJ
+02:50:52	Nicolás Balaudo:	mama coder?
+02:50:53	Damian Alvarez:	fueron
+02:50:56	[Tutor] Felipe Blanco Muzzolón:	Jajajajajaja
+02:50:58	Fernando Breme:	acusalo con tu mama kiko
+02:50:59	Cristian Diaz Hoffman:	jajsjasdjasdj
+02:51:00	[Tutor DW] Gerardo Gambarte:	nada de entregar ese ejemplo como desafio ehh
+02:51:00	Braian Carignano:	el jueves hay asistencia??
+02:51:01	[TUTOR] Luciano Villalba:	jajajajaj
+02:51:05	Claudio Contardi:	todo tiene un precio jajaj
+02:51:06	Martín Hamann:	ig de la mama coder
+02:51:12	Nicolás Balaudo:	que diria tu abuelo coder de esto...
+02:51:13	Fernando Breme:	se suspende por lluvia?
+02:51:14	Lautaro Royon:	JASDADSJ
+02:51:16	Gastón Sosa:	Hoy no hay desafío?
+02:51:18	Luis Acosta:	😭
+02:51:21	Jose Piñeiro:	coder es de otro pais?
+02:51:21	Kevin Ascanio:	el jueves desafio?
+02:51:22	Diego Cáceres Cardoza:	Por que en la entrega del jueves no se permite flexbox?
+02:51:24	Fernando Vera:	ig de la mama coder jajaja me estalle
+02:51:25	Lautaro Royon:	se suspende por ser jueves?
+02:51:27	Carlos Contreras:	huelga
+02:51:29	John Kevin Montes De Oca:	yo soy de Peru aca todo normal
+02:51:31	Javier Federico Casas:	Gracias profe, gracias tutores.Una genialidad de clase.
+02:51:33	Fernando Vera:	ig de la autoritaria?
+02:51:37	Matías Sánchez:	huelga flexbox
+02:51:39	Franco Xavier Dosada:	no se suspende por lluvia tampoco
+02:51:39	Debora Thamara Silva Letoile:	los feriados de pascuas tmb hay clases¡? preg para planear viaje jajajaj
+02:51:46	Martín Cambursano:	10 puntos jajaja
+02:51:47	Diego Casas:	Claro no somos todos argentinos jaja medio egoísta de nuestra parte
+02:51:49	Luis Acosta:	Qué día es feriado en el calendario Coder?
+02:51:50	Martín Cambursano:	me encanto entonces
+02:51:53	[Tutor] Felipe Blanco Muzzolón:	1 mayo
+02:51:54	Fernando Breme:	1 de mayo
+02:51:54	Jose Piñeiro:	mejor a nostros igual
+02:51:56	Fernando Vera:	jueves santo no hay decime!
+02:51:57	[Tutor] Felipe Blanco Muzzolón:	No?
+02:51:58	Franco Xavier Dosada:	y el 1 de mayo ?
+02:52:06	Claudio Contardi:	vagos
+02:52:07	Ricardo Torres:	grande profe!! nos vemos!!!
+02:52:08	Luis Acosta:	San Valentín
+02:52:10	Martín Cambursano:	Bueno saludos Profe.
+02:52:10	Pablo Moreno:	el mexicano se copa al feriado argentino, yo vivi alla
+02:52:11	Matías Sánchez:	muy buena clase
+02:52:13	[Tutora] Melisa Ferreyra:	Buenas noches
+02:52:14	[Tutor] Felipe Blanco Muzzolón:	Muchas gracias por asistir!
+02:52:14	Matias Montenegro:	El jueves nos vemoooos!
+02:52:17	Claudio Contardi:	ok
+02:52:17	Gastón Sosa:	dale! genial!
+02:52:17	Cristian Diaz Hoffman:	gudd bai
+02:52:17	John Kevin Montes De Oca:	hasta el jueves, gracias
+02:52:19	Gastón Sosa:	nosvi
+02:52:20	Jorge Barrera:	ok profe gracias saludos a todos
+02:52:21	Kevin Ascanio:	Muchas graciasss professs
+02:52:22	hernan gil:	Gracias
+02:52:23	Diego Casas:	Buenas noches!
+02:52:23	Maria Sosa:	buenas noches!!!
+02:52:25	Matías Sánchez:	babai
+02:52:25	Claudio Ojeda:	nos vemos
+02:52:25	Ignacio Iantorno:	gracias!!!
+02:52:26	Martín Hamann:	Nos vemos profe excelente clase
+02:52:26	Diego Casas:	No deja
+02:52:27	Javier Federico Casas:	Chau chau chau chauuuuuuuuu
+02:52:27	Lautaro Minuè:	Chau, nos vemos
+02:52:27	Ruben Petit:	Gracias
+02:52:27	Damian Alvarez:	esta no se puede
+02:52:28	Debora Thamara Silva Letoile:	Gracias!! :D
+02:52:29	[Tutor] Felipe Blanco Muzzolón:	Hoy no se valora
+02:52:30	Franco Xavier Dosada:	impresionante hoy jaja
+02:52:30	[TUTOR] Luciano Villalba:	Nos vemos chicos!! buenas noches
+02:52:33	Fernando Breme:	busbai
+02:52:33	Mariano San Juan:	saludos
+02:52:34	Damian Alvarez:	la del jueves
+02:52:34	Kevin Ascanio:	no vemosss
+02:52:34	Luis Acosta:	Chau profeee!
+02:52:34	[Tutor] Felipe Blanco Muzzolón:	Saludos!
+02:52:35	Nicolás Balaudo:	chau hermano coder
+02:52:35	Francisco Rubio:	chauu
+02:52:36	Claudio Contardi:	chauu
+02:52:37	Cristian Diaz Hoffman:	chaooo
+02:52:38	Gaston Sartor:	saludos
+02:52:39	Lautaro Royon:	bye
+02:52:39	Julian Uranga:	chauuu
+02:52:42	Julian Uranga:	saludos
+02:52:45	Damian Alvarez:	feliz cumple
+02:52:49	Martín Hamann:	No me voy hasta que digan felicumple
+02:53:01	Martín Hamann:	JAJAJ
+02:53:02	Martin Maruca:	buenas noches
+02:53:07	Dario Ceballos:	😂
+02:53:07	Damian Alvarez:	JAJAAJ
