@@ -208,8 +208,17 @@ footer img {
 .ddm {
     padding: 0px !important;
 }
-
+@include xxs{
+    footer{
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: center;
+        align-items: center;
+    }
+}
 @include xs {
+    h1{font-size: 24px;
+    color: $colorPrimario;}
     .logo {
         margin: 0;
         padding: 0;
@@ -232,13 +241,19 @@ footer img {
         margin-right: 15px !important;
     }
 
-    .toggler {
-        z-index: 5;
-        cursor: pointer;
-    }
+
 }
 
 @include s {
+.grid{
+    grid-template-areas: "contenido","pie";
+    grid-template-columns: 100%;
+    grid-template-rows: auto 150px;
+
+}
+.imgCentro{width: 100%;}
+aside{width: 0;}
+main{width: 100%;}
     .logo {
         margin: 0;
         padding: 0;
@@ -256,19 +271,10 @@ footer img {
         top: 0;
         left: 0;
     }
-
+    .minis-d >h2{display: none;}
     .imgLogoDer {
         margin-right: 15px !important;
     }
 
-    .toggler {
-        z-index: 5;
-        cursor: pointer;
-
-        &:hover {
-            background-color: $colorSecundario;
-
-        }
-    }
-
+    
 }

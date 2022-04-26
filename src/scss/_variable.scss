@@ -122,7 +122,11 @@ $tiempoLargo:1.5s;
         @content;
     }
 }
-
+@mixin xxs {
+    @media (max-width:480px) {
+        @content;
+    }
+}
 @function set_color($color) {
     @return transparentize(invert($color), 0.15);
 

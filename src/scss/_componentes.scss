@@ -381,6 +381,34 @@
                 }
             }
         }
+
+        @include s {
+            
+            .menu {
+                visibility: visible;
+                transform: translatey(120px);
+                min-width: 350px;
+                >div {                transform: scale(1);
+
+                    >div {                    opacity: 1;
+                    }
+                }
+            }
+            .toggler{z-index: 5;}
+            .toggler:checked~.menu {
+                visibility: hidden;
+    
+                >div {
+                    transform: scale(0);
+                    transition-duration: $tiempoMedio;
+    
+                    >div {
+                        opacity: 0;
+                        transition: opacity $tiempoCorto ease 0.4s;
+                    }
+                }
+            }
+        }
     }
 
 }
@@ -530,13 +558,13 @@ HTML MENU HAMBURGUESA
         border: $bcolor solid $borderTk;
         border-radius: 3%;
         overflow: hidden;
-        height: calc(auto +15px);
+        height: 100%;
         box-sizing: content-box;
         list-style: none;
         transition: opacity, transform 1s ease;
         margin-bottom: 15px;
 
-        @if $ancho=a {
+        @if $ancho==a {
             width: auto;
         }
 
