@@ -266,7 +266,7 @@
                 justify-content: center;
                 transition: all $tiempoCorto ease;
                 background-image: 'img/regionlogo.png';
-                z-index: 5;
+                z-index: 0;//modificacion
             }
 
             //crea las 3 lineas de la hamburguesa

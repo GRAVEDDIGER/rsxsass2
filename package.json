@@ -27,7 +27,9 @@
       ],
       ".ico":"iconos",
       ".css": "css",
-      ".map": "maps"
+      ".map": "maps",
+      ".otf": "fonts",
+      ".ttf": "fonts"
 
           },
     "options": {
