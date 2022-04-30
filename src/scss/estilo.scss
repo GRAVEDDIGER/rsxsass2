@@ -47,12 +47,16 @@ header {
 %margin1P {
     margin: 0 1.5rem;
 }
-
+%flex-col{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
 main {
     grid-area: contenido;
     @extend %margin1P;
     width: calc(95% - #{$menuWidth});
-
+    @extend %flex-col;
     >article {
         display: flow-root;
         text-align: justify;
