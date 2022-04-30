@@ -115,6 +115,8 @@ h3 {
 
 .mapas {
     border: $colorSecundario solid 4px;
+    width: 100%;
+    height: 100%;
 }
 
 p {
@@ -198,7 +200,8 @@ footer img {
 }
 
 .mapasD {
-    width: 45%;
+    width: 55%;
+    height: calc(30vw * 2 / 3);
     float: right;
     margin-bottom: 5px;
     padding-bottom: 3px;
@@ -208,73 +211,136 @@ footer img {
 .ddm {
     padding: 0px !important;
 }
-@include xxs{
-    footer{
+
+//////////////////////////////////////////
+//                 MEDIA QUERYS         //
+//DEFINICIONES DE MQ EN _VARIABLE       //
+//////////////////////////////////////////
+
+@include xl {
+    .mapasD {
+        width: 60%;
+    }
+}
+
+@include l {
+    .imgCentro {
+        width: 50%;
+    }
+
+    .mapasD {
+        width: 80%;
+        height: calc(45vw * 2 / 3);
+    }
+}
+
+@include md {
+    .imgCentro {
+        width: 50%;
+    }
+
+    .mapasD {
+        width: 100%;
+        height: calc(60vw * 2 / 3);
+    }
+}
+
+@include s {
+    .grid {
+        grid-template-areas: "contenido", "pie";
+        grid-template-columns: 100%;
+        grid-template-rows: auto 150px;
+
+    }
+
+    .mapasD {
+        height: calc(80vw * 2 / 3);
+    }
+
+    h1 {
+        font-size: 24px;
+        color: $colorPrimario;
+    }
+
+    .imgCentro {
+        width: 100%;
+    }
+
+    aside {
+        width: 0;
+    }
+
+    main {
+        width: 100%;
+
+        .titReg {
+            display: none;
+        }
+    }
+
+    .logo {
+        margin: 0;
+        padding: 0;
+
+        >img {
+            margin: 0;
+            padding: 0;
+        }
+
+    }
+
+    .imgLogo {
+        margin: 010;
+        padding: 0;
+        top: 0;
+        left: 0;
+    }
+
+    .minis-d>h2 {
+        display: none;
+    }
+
+    .imgLogoDer {
+        margin-right: 15px !important;
+    }
+
+
+}
+
+
+@include xs {
+
+
+    .logo {
+        margin: 0;
+        padding: 0;
+
+        >img {
+            margin: 0;
+            padding: 0;
+        }
+
+    }
+
+    .imgLogo {
+        margin: 010;
+        padding: 0;
+        top: 0;
+        left: 0;
+    }
+
+    .imgLogoDer {
+        margin-right: 15px !important;
+    }
+
+
+}
+
+@include xxs {
+    footer {
         display: flex;
         flex-flow: column nowrap;
         justify-content: center;
         align-items: center;
     }
-}
-@include xs {
-    h1{font-size: 24px;
-    color: $colorPrimario;}
-    .logo {
-        margin: 0;
-        padding: 0;
-
-        >img {
-            margin: 0;
-            padding: 0;
-        }
-
-    }
-
-    .imgLogo {
-        margin: 010;
-        padding: 0;
-        top: 0;
-        left: 0;
-    }
-
-    .imgLogoDer {
-        margin-right: 15px !important;
-    }
-
-
-}
-
-@include s {
-.grid{
-    grid-template-areas: "contenido","pie";
-    grid-template-columns: 100%;
-    grid-template-rows: auto 150px;
-
-}
-.imgCentro{width: 100%;}
-aside{width: 0;}
-main{width: 100%;}
-    .logo {
-        margin: 0;
-        padding: 0;
-
-        >img {
-            margin: 0;
-            padding: 0;
-        }
-
-    }
-
-    .imgLogo {
-        margin: 010;
-        padding: 0;
-        top: 0;
-        left: 0;
-    }
-    .minis-d >h2{display: none;}
-    .imgLogoDer {
-        margin-right: 15px !important;
-    }
-
-    
 }
