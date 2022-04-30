@@ -109,7 +109,7 @@
         }
 
         &:hover {
-            color: lighten(set_color($bc), 25%);
+            color: darken($bc, 15%);
             background-color: invert($bc);
             border: lighten(set_color($bc), 25%) solid calc(#{$bs} + 0.3px); // font-size: size(m)+2px;
         }
@@ -149,7 +149,7 @@
         }
 
         &:hover {
-            color: lighten(set_color($bc), 25%);
+            color: darken($bc, 15%);
             background-color: invert($bc);
             border: lighten(set_color($bc), 25%) solid calc(#{$bs} + 0.3px); // font-size: size(m)+2px;
         }
@@ -383,25 +383,32 @@
         }
 
         @include s {
-            
+
             .menu {
                 visibility: visible;
                 transform: translatey(120px);
                 min-width: 350px;
-                >div {                transform: scale(1);
 
-                    >div {                    opacity: 1;
+                >div {
+                    transform: scale(1);
+
+                    >div {
+                        opacity: 1;
                     }
                 }
             }
-            .toggler{z-index: 5;}
+
+            .toggler {
+                z-index: 5;
+            }
+
             .toggler:checked~.menu {
                 visibility: hidden;
-    
+
                 >div {
                     transform: scale(0);
                     transition-duration: $tiempoMedio;
-    
+
                     >div {
                         opacity: 0;
                         transition: opacity $tiempoCorto ease 0.4s;
