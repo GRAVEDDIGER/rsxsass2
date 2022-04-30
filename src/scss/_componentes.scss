@@ -110,12 +110,12 @@
 
         &:hover {
             color: lighten(set_color($bc), 25%);
-            background-color: lighten($bc, 15%);
+            background-color: invert($bc);
             border: lighten(set_color($bc), 25%) solid calc(#{$bs} + 0.3px); // font-size: size(m)+2px;
         }
 
         &:hover>a {
-            color: lighten(set_color($bc), 25%);
+            color: invert($bc);
 
         }
 
@@ -150,7 +150,7 @@
 
         &:hover {
             color: lighten(set_color($bc), 25%);
-            background-color: lighten($bc, 15%);
+            background-color: invert($bc);
             border: lighten(set_color($bc), 25%) solid calc(#{$bs} + 0.3px); // font-size: size(m)+2px;
         }
 

@@ -20,9 +20,6 @@
     text-decoration: none;
     text-align: center;
     width: 100%;
-    margin: 0 auto;
-    padding-left: 0;
-    padding-right: 0;
     justify-content: center;
     align-items: center;
 }
@@ -85,15 +82,17 @@ main {
 
 .col1{
     grid-area: c1;
+    margin-top: 1rem;
     // width: 100%;
     @extend  %flex-col;
-    >a{@extend %btn_txt}
+    >a{@extend %btn_txt;}
 }
 .col2{
+    margin-top: 1rem;
     grid-area: c2;
     // width: 100%;
     @extend %flex-col;
-    >a{@extend %btn_txt}
+    >a{@extend %btn_txt;}
 
 }
 //sass compilation
